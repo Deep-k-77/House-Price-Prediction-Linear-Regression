@@ -1,0 +1,8 @@
+Requirements
+
+1.Python
+2.Pandas
+3.Matplotlib
+4.seaborn
+5.sckit Learn
+6.Jupyter Notebook 
